@@ -139,3 +139,30 @@ Dividido em três em colunas: Geral, Ciência da Computação e BCMT.
 #### BCMT
 
 -   **Analise de suporte à decisão** redireciona para uma outra página (bcmt.ufrj.br) que no momento está fora do ar.
+
+### Extensão
+    Apresenta as principais extensões do Instituto de Computação, os professores responsáveis por cada um deles e o email de contato
+
+### Pesquisa
+    Apresenta uma série de pesquisas realizados pelos professores, porém nenhuma delas atualizada.
+
+### Ofertas
+
+-   **Ofertas de Iniciação Científica** Página vazia
+
+-   **Ofertas de Monitoria** Página vazia de conteúdo, apenas um link que direciona para os tópicos já mencionados
+
+### Links
+    Direciona para links auxiliares
+    - http://www.ufrj.br/
+    - https://www.ccmn.ufrj.br/
+    - https://www.im.ufrj.br/index.php/pt/
+    - https://intranet.ufrj.br/portal/
+    - http://lci.dcc.ufrj.br/ (não está funcionando)
+    - http://www.cainfo.dcc.ufrj.br/ (não está funcionando)
+    - https://ejcm.com.br/
+    - https://www.youtube.com/channel/UCroRFt5CXxhIWffGKQz45yQ
+
+### Usuário
+    Apresenta um formulário de autenticação de registro do aluno
+
