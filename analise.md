@@ -88,3 +88,6 @@
 
 - **Monitorias:** apenas os tópicos principais e um link para um tipo de edital onde mostra os links disponibilizados pelos professores que estão com processo seletivo para bolsa
 
+- **Últimas Notícias** várias notícias destaques que levam a página de notícias no tópico **Informaçãoes** do menu de navegação. Do lado direito, tem uma imagem âncora que leva ao site de eventos da UFRJ, o site de consulta do e-MEC e um mecanismo de buscar notícias.
+
+- **Rodapé** apresenta um slide de imagens do CCMN e do Instituto de Computação e informções comuns de rodapé.
