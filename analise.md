@@ -78,9 +78,9 @@
 
 - **Sobre o curso:** Página de texto corrido falando sobre o curso de Ciência da Computação.
 
-- **Localização:** Possui a localização do CCMN e endereço para correspondência, possivelmente uma imagem do Google Maps que está com erro. Abaixo apresenta um formulário para contato à direita e os principais meios de contato com as coordenções e secretaria.
+- **Localização:** Possui a localização do CCMN e endereço para correspondência, possivelmente uma imagem do Google Maps que está com erro. Abaixo apresenta um formulário para contato à direita e os principais meios de contato com as coordenções e secretaria. Referencia o subtópico **Endereço e contato** do tópico **Informações do menu de navegação.
 
-- **Corpo Docente:** Uma tabela de 4 colunas (Nome, email, página pessoal, telefone) dos professores do Instituto. (apresenta botões de imprimir e enviar por email)
+- **Corpo Docente:** Uma tabela de 4 colunas (Nome, email, página pessoal, telefone) dos professores do Instituto. (apresenta botões de imprimir e enviar por email) e referencia o subtópico **corpo-docente** do tópico **Informações** do menu de navegações. 
 
 -  **Turmas DCC:** ERRO 404
 
@@ -91,3 +91,13 @@
 - **Últimas Notícias** várias notícias destaques que levam a página de notícias no tópico **Informaçãoes** do menu de navegação. Do lado direito, tem uma imagem âncora que leva ao site de eventos da UFRJ, o site de consulta do e-MEC e um mecanismo de buscar notícias.
 
 - **Rodapé** apresenta um slide de imagens do CCMN e do Instituto de Computação e informções comuns de rodapé.
+
+### Informações
+
+- **Notícias** uma lista de notícias que ao serem clicadas abrem os respectivos artigos. Na parte de baixo, possui um localizador de páginas com a quantidade total delas e, ao lado direito, um destaque com as últimas notícias.
+
+- **Comissões** Um lista ordenada com as diferentes comições no IC e seus respectivos participantes
+
+- **FAQs** Uma lista com vários tópicos âncorados a links que apresentam artigos como respostas a perguntas comuns e possivelmente frequentes no meio discente.
+
+- **Ouvidoria** abre o site da ouvidoria da UFRJ (ouvidoria.ufrj.br)
