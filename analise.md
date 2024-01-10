@@ -1,12 +1,12 @@
-# Análise de atributos do site do IC
+# ANÁLISE DE ATRIBUTOS DO SITE DO IC
 
 - **Objetivo:** fazer um levantamento do que tem no antigo site do DCC e no atual site em construção
 
 - **Finalidade:** migrar aquilo que falta para o site novo
 
-## Site Antigo DCC
+## SITE ANTIGO DO IC
 
-### Página Principal
+### PÁGINA PRINCIPAL
 
 - Header com logo do Instituto e barra de pesquisa
 - Menu de navegação:
@@ -74,7 +74,7 @@
 - Copyright
 - Chat de suporte
 
-#### Botões
+#### BOTÕES
 
 -   **Sobre o curso:** Página de texto corrido falando sobre o curso de Ciência da Computação. Referencia o subtópico **Sobre o curso** no tópico **Ensino** do menu de navegação.
 
@@ -92,7 +92,7 @@
 
 -   **Rodapé** apresenta um slide de imagens do CCMN e do Instituto de Computação e informções comuns de rodapé.
 
-### Informações
+### INFORMAÇÕES
 
 -   **Notícias** uma lista de notícias que ao serem clicadas abrem os respectivos artigos. Na parte de baixo, possui um localizador de páginas com a quantidade total delas e, ao lado direito, um destaque com as últimas notícias.
 
@@ -102,11 +102,11 @@
 
 -   **Ouvidoria** abre o site da ouvidoria da UFRJ (ouvidoria.ufrj.br)
 
-### Ensino
+### ENSINO
 
 Dividido em três em colunas: Geral, Ciência da Computação e BCMT.
 
-#### Geral
+#### GERAL
 
 -   **Informções Acadêmicas** vários tópicos importantes como trancamento de matrícula, cancelamento, revisão de correção de prova, juntamente com links que levam as suas respectivas resoluções (que estão fora do ar)
 
@@ -116,7 +116,7 @@ Dividido em três em colunas: Geral, Ciência da Computação e BCMT.
 
 -   **Monitoria** abre uma página onde tem uma tabela com as disciplinas que estão oferecendo bolsa e os seus respectivos professores responsáveis com o endereço de email para contato. Além disso, tem os príncipais tópicos do artigo no topo da página que ao serem clicados direcionam para as respectivas seções dentro do site. Em adição, tem diversas informações complementares e respostas a possíveis perguntas.
 
-#### Ciência da Computação
+#### CIÊNCIA DA COMPUTAÇÃO
 
 -   **Manual do Aluno: currículo atual** uma página inútil que apenas apresenta uma âncora para o documento que apresenta o manual do aluno com o currículo atual. Pode ser direto, sem a necessidade de uma página com somente um link.
 
@@ -140,19 +140,19 @@ Dividido em três em colunas: Geral, Ciência da Computação e BCMT.
 
 -   **Analise de suporte à decisão** redireciona para uma outra página (bcmt.ufrj.br) que no momento está fora do ar.
 
-### Extensão
+### EXTENSÃO
     Apresenta as principais extensões do Instituto de Computação, os professores responsáveis por cada um deles e o email de contato
 
-### Pesquisa
+### PESQUISA
     Apresenta uma série de pesquisas realizados pelos professores, porém nenhuma delas atualizada.
 
-### Ofertas
+### OFERTAS
 
 -   **Ofertas de Iniciação Científica** Página vazia
 
 -   **Ofertas de Monitoria** Página vazia de conteúdo, apenas um link que direciona para os tópicos já mencionados
 
-### Links
+### LINKS
     Direciona para links auxiliares
     - http://www.ufrj.br/
     - https://www.ccmn.ufrj.br/
@@ -163,6 +163,6 @@ Dividido em três em colunas: Geral, Ciência da Computação e BCMT.
     - https://ejcm.com.br/
     - https://www.youtube.com/channel/UCroRFt5CXxhIWffGKQz45yQ
 
-### Usuário
+### USUÁRIO
     Apresenta um formulário de autenticação de registro do aluno
 
